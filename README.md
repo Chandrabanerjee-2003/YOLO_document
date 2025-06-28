@@ -7,10 +7,3 @@ This app uses the YOLOv10x model for document segmentation to annotate various s
 The model uses pretrained weights which may be dowloaded using this [colab notebook](ocrmain.ipynb)
 
 [Link](https://yolodocument-kp8j7kfnsldrfa76ctpcug.streamlit.app/) for deployed web-application using streamlit
-
-## Website Interface and Results
-<img src = "thumbnails/ui.png">
-
-### Annotations on document
-<img src = "thumbnails/annotated_image_page_2.jpg">
-<img src = "thumbnails/annotated_image_page_10.jpg">
